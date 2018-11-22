@@ -40,6 +40,7 @@
 		WebkitOverflowScrolling: noScroll ? 'auto' : 'touch',
 	} : {};
 	return { */
+  -webkit-overflow-scrolling: touch;
   position: absolute;
   bottom: 20px;
   top: 20px;
