@@ -1,0 +1,14 @@
+.main {
+  height: 2000px;
+  background-color: yellow;
+}
+
+.lockedTop {
+  height: 20px;
+  background-color: black;
+}
+
+.lockedBottom {
+  height: 20px;
+  background-color: blueviolet;
+}
